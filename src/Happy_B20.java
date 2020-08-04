@@ -9,6 +9,7 @@ public class Happy_B20 {
             s+=message.charAt(i);
         }
         System.out.println(s);
+
     }
 
 }
