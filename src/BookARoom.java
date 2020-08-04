@@ -2,6 +2,7 @@ public class BookARoom {
     public static void main(String[] args) {
         
         System.out.println("this is test");
+        String s = "";
 
 
 
