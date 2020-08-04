@@ -9,7 +9,14 @@ public class Happy_B20 {
             s+=message.charAt(i);
         }
         System.out.println(s);
+<<<<<<< HEAD
 
+=======
+        
+        
+        
+        //fjfd
+>>>>>>> 67f806f7facf7366d49586c5f3401b25dcfd057a
     }
 
 }
