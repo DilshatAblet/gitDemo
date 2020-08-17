@@ -1,22 +1,15 @@
+import org.w3c.dom.ls.LSOutput;
+
 import java.lang.reflect.Array;
 
 public class Happy_B20 {
+
+
     public static void main(String[] args) {
-        String s ="";
-        String message = "B20 is always happy";
-        System.out.println("B20 is always happy");
-        for(int i = 0 ;i<message.length();i++){
-            s+=message.charAt(i);
-        }
-        System.out.println(s);
-<<<<<<< HEAD
 
-=======
-        
-        
-        
-        //fjfd
->>>>>>> 67f806f7facf7366d49586c5f3401b25dcfd057a
+
+        System.out.println("sad sad sad sad ");
+
+
     }
-
 }
